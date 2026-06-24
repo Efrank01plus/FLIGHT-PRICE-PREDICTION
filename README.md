@@ -110,3 +110,4 @@ The following analyses were performed:
 - Create an interactive Power BI dashboard.
 - Perform regression analysis for more accurate predictions.
 - Include seasonal and holiday travel effects.
+You can collaborate with me on data analysis, visualization and statistical analysis. Contact via email [ekf78plus@gmail.com ]
