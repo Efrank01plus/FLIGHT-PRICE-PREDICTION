@@ -2,6 +2,7 @@
 
 
 <img width="628" height="426" alt="Image" src="https://github.com/user-attachments/assets/ce0fc86c-63ff-4905-8a44-a7048f2d551c" />
+
 ## 📌 Project Overview
 
 This project analyzes airline ticket pricing data to identify the factors that influence flight prices. The study focuses on understanding how variables such as the number of stops, airline, departure location, destination, and flight duration affect ticket prices.
